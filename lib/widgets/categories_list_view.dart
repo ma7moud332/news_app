@@ -37,7 +37,7 @@ class CategoriesListView extends StatelessWidget {
       categoryName: 'Entertaiment',
     ),
   ];
-
+  
   @override
   Widget build(BuildContext context) {
     return SizedBox(
